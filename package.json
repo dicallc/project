@@ -1,10 +1,10 @@
 {
-  "name": "project",
+  "name": "小新的编程之路",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
+    "start": "ng serve --open --port 4201",
     "build": "ng build",
     "aot": "ng build --aot --prod",
     "test": "ng test",
