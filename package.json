@@ -1,12 +1,12 @@
 {
-  "name": "小新的编程之路",
+  "name": "technologystack",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
     "start": "ng serve --open --port 4201",
     "build": "ng build",
-    "aot": "ng build --aot --prod",
+    "aot": "ng build --env=prod ",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
